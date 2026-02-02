@@ -1,0 +1,10 @@
+{
+  "run_id": "C3_shared_M25",
+  "description": "Meio causal comum, ambos com memória longa",
+  "observer": {
+    "samples": 300,
+    "interval_ms": 50,
+    "memory_A": 25,
+    "memory_B": 25
+  }
+}
