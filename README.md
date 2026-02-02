@@ -21,4 +21,18 @@ Os experimentos podem ser executados localmente ou via GitHub Codespaces.
 O uso de Codespaces é opcional e serve apenas para facilitar a reprodução.
 
 
+
+### Nota sobre os métodos
+
+Os scripts implementam experimentos operacionais segundo o Framework CMR.
+Nenhum código pretende modelar diretamente fenômenos físicos reais, 
+mas sim **capturar a lógica operacional** de como fatos emergem sob diferentes
+regimes de observação.
+
+O experimento conceitual inspirado na dupla fenda é apenas isso — um modelo
+operacional — e **não uma simulação física da dupla fenda real**.
+
+Experimentos que dependem de ruído físico real devem ser executados em
+ambiente local, não em container ou máquinas virtuais.
+
 Experimentos empíricos com ruído físico devem ser executados em ambiente local.
