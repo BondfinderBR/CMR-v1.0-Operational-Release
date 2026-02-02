@@ -1,9 +1,15 @@
-CMR — Campo de Materialização Relacional (v1.0)
+# CMR — Campo de Materialização Relacional
 
-Framework Operacional para a Emergência da Realidade Funcional
+Autor: Flávio Oliveira  
+Status: CMR v1.0 — Stable Operational Release
 
-Visão Geral
+Este repositório contém a implementação experimental e operacional do
+Framework CMR (Campo de Materialização Relacional).
 
-Este repositório contém a implementação experimental e operacional do Framework CMR (Campo de Materialização Relacional). O objetivo do CMR não é modelar a ontologia da realidade, mas investigar como fatos emergem, divergem e se estabilizam em função do método de observação, do meio físico e da integração temporal do observador.
+O CMR é um framework operacional para investigar como fatos emergem,
+divergem e se estabilizam em função do método de observação, do meio
+físico e da integração temporal do observador.
 
-O framework parte da premissa de que a mecânica quântica descreve com precisão a realidade acessível pelo método de medição, sem exigir uma descrição ontológica completa da realidade “em si”.
+Não se trata de uma nova teoria física nem de uma simulação da mecânica
+quântica, mas de uma organização operacional do que os experimentos
+mostram.
