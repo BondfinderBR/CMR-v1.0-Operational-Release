@@ -1,0 +1,10 @@
+{
+  "run_id": "C3_shared_mixed",
+  "description": "Meio causal comum, memórias incompatíveis",
+  "observer": {
+    "samples": 300,
+    "interval_ms": 50,
+    "memory_A": 25,
+    "memory_B": 0
+  }
+}

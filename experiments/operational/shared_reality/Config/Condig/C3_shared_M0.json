@@ -1,0 +1,10 @@
+⁶{
+  "run_id": "C3_shared_M0",
+  "description": "Meio causal comum, ambos sem memória",
+  "observer": {
+    "samples": 300,
+    "interval_ms": 50,
+    "memory_A": 0,
+    "memory_B": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "run_id": "C0_M0",
+  "description": "Baixa coerência do meio (RTT bruto da rede)",
+  "server": {
+    "ip": "127.0.0.1",
+    "port": 9999
+  },
+  "observer": {
+    "samples": 300,
+    "interval_ms": 50,
+    "memory_window": 0
+  },
+  "coherence": {
+    "filter_outliers": false,
+    "max_jitter_ms": null,
+    "clock_sync": "none"
+  }
+}
