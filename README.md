@@ -13,3 +13,12 @@ físico e da integração temporal do observador.
 Não se trata de uma nova teoria física nem de uma simulação da mecânica
 quântica, mas de uma organização operacional do que os experimentos
 mostram.
+
+
+### Ambiente de Execução
+
+Os experimentos podem ser executados localmente ou via GitHub Codespaces.
+O uso de Codespaces é opcional e serve apenas para facilitar a reprodução.
+
+
+Experimentos empíricos com ruído físico devem ser executados em ambiente local.
