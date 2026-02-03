@@ -44,3 +44,6 @@ No diretório `docs/` estão os materiais formais associados ao Framework CMR v1
 
 
 Experimentos empíricos com ruído físico devem ser executados em ambiente local.
+
+
+https://zenodo.org/records/18463264
