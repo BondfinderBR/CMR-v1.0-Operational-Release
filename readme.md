@@ -27,5 +27,9 @@ Ele busca responder **de forma operacional**:
 
 ---
 
+
+https://zenodo.org/records/18463264
+
 ## 🗂️ Estrutura do Repositório
 
+https://zenodo.org/records/18463264
