@@ -35,4 +35,12 @@ operacional — e **não uma simulação física da dupla fenda real**.
 Experimentos que dependem de ruído físico real devem ser executados em
 ambiente local, não em container ou máquinas virtuais.
 
+## 📄 Documentação Formal
+
+No diretório `docs/` estão os materiais formais associados ao Framework CMR v1.0:
+
+- **CMR_Mathematical_Formulation.md** — Formulação matemática operacional do framework.
+- **CMR_Math_Reproduction.py** — Implementação em Python que reproduz a matemática diretamente linha por linha.
+
+
 Experimentos empíricos com ruído físico devem ser executados em ambiente local.
