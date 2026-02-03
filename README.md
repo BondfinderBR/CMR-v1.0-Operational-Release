@@ -46,4 +46,18 @@ No diretório `docs/` estão os materiais formais associados ao Framework CMR v1
 Experimentos empíricos com ruído físico devem ser executados em ambiente local.
 
 
+## Série A — Física Operacional
+
+A pasta `experiments/Serie_A` contém os testes que explicam:
+
+- A1 — Medição: Rígida vs Elástica  
+- A2 — Interferência como Conflito de Políticas  
+- A3 — Supressão de Interferência por Política Dominante  
+- A4 — Decoerência como Saturação Gradual  
+
+Esses scripts geram resultados que mostram fenômenos quânticos sem assumir ontologia física adicional.
+
+Consulte também: `docs/REPORT_A1_A4.md`
+
+
 https://zenodo.org/records/18463264
