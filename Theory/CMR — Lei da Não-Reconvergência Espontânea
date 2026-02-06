@@ -1,0 +1,84 @@
+# CMR — Lei da Não-Reconvergência Espontânea
+
+## Status
+Lei Fundamental Operacional  
+Versão: 1.0  
+Data: YYYY-MM-DD  
+Autor: Flávio Oliveira
+
+---
+
+## Enunciado
+
+Em sistemas observacionais com meio compartilhado, memória limitada e custo crescente de divergência, **não ocorre reconvergência espontânea** das realidades observadas.
+
+A divergência perceptiva não é resolvida por tempo, penalidade ou saturação de ruído.  
+A reconvergência exige um **mecanismo explícito de troca de informação** entre observadores.
+
+---
+
+## Motivação
+
+Esta lei surge da investigação operacional do Framework CMR (Campo de Materialização Relacional), cujo objetivo é compreender sob quais condições uma realidade compartilhada pode emergir ou falhar.
+
+---
+
+## Condições do Experimento (CMR–T6)
+
+- Meio compartilhado
+- Observadores independentes
+- Memória limitada (com degradação progressiva)
+- Penalidade simétrica por divergência
+- Ausência de autoridade externa
+- Ausência de interface de troca
+
+---
+
+## Resultados Observados
+
+- Divergência média ≈ 0.5
+- Reconvergência: **não observada**
+- Colapso da memória para limite mínimo
+- Explosão de ruído observacional
+- Custo crescente levou à perda de resolução, não ao alinhamento
+
+---
+
+## Interpretação Técnica
+
+- A realidade compartilhada **não é um atrator natural**
+- Custo informacional **não gera reconvergência**
+- Tempo **não resolve fragmentação**
+- Divergência excessiva leva à cegueira observacional
+
+---
+
+## Escopo da Lei
+
+Esta lei aplica-se a sistemas:
+- com observadores distribuídos
+- sem canal explícito de mediação
+- com memória finita
+
+Não afirma impossibilidade de reconvergência **mediada**.
+
+---
+
+## Consequências Diretas
+
+- A coerência do mundo exige mediação
+- Consenso não emerge espontaneamente
+- Realidade compartilhada é construída, não garantida
+
+---
+
+## Teste de Falsificação
+
+A lei pode ser refutada se for demonstrada reconvergência estável sob as mesmas condições, sem autoridade ou interface de troca.
+
+---
+
+## Referência Experimental
+
+Script: `cmr_T6_autosincronizacao_sem_autoridade.py`  
+Repositório: CMR-v1.0-Operational-Release
