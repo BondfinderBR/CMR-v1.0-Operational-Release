@@ -1,0 +1,74 @@
+# Série F — Fundamentos Operacionais da Realidade
+
+Esta série contém os experimentos que estabelecem os princípios fundamentais
+do Framework CMR (Campo de Materialização Relacional).
+
+A Série F não modela fenômenos físicos específicos nem aplicações.  
+Ela define os **condições operacionais mínimas** que precisam ser verdadeiras
+para qualquer realidade funcional emergir.
+
+## Objetivos da Série F
+
+1. Demonstrar que **não existe estado global verdadeiro** acessível.
+2. Demonstrar que uma **realidade local é suficiente** para operar.
+3. Mostrar que **divergência não implica falha ou colapso**.
+4. Mostrar que **memória é condição necessária para estabilidade**.
+5. Mostrar a **impossibilidade garantida de reconvergência** em geral.
+6. Quantificar o **custo mínimo de estabilidade**.
+7. Unificar conceitos de atemporalidade operacional.
+8. Especificar os **limites práticos do alinhamento observacional**.
+
+## Organização da Série
+
+### F1 — Sem Estado Global
+`cmr_F1_sem_estado_global.py`
+
+Demonstra que mesmo com o mesmo meio físico e as mesmas entradas,
+dois observadores independentes podem gerar realidades divergentes
+sem gerar colapso no sistema.
+
+### F2 — Realidade Local Suficiente
+`cmr_F2_realidade_local_suficiente.py`
+
+Mostra que um observador individual,
+baseado apenas em sua integração temporal e método de observação,
+consegue uma realidade funcional mesmo sem nenhum estado global.
+
+### F3 — Divergência sem Colapso
+`cmr_F3_divergencia_sem_colapso.py`
+
+Mostra que divergência entre observadores não causa inconsistência estrutural.
+
+### F4 — Memória como Condição de Realidade
+`cmr_F4_memoria_condicao_de_realidade.py`
+
+Mostra que sem memória integrada não há realidade estável.
+
+### F5 — Impossibilidade de Reconvergência
+`cmr_F5_impossibilidade_reconvergencia.py`
+
+Mostra que observadores podem permanecer incompatíveis indefinidamente.
+
+### F6 — Custo da Estabilidade
+`cmr_F6_custo_da_estabilidade.py`
+
+Quantifica o custo observado (em ruído, memória ou margem) para que
+estabilidade funcional seja mantida.
+
+### F7 — Atemporalidade Operacional
+`cmr_F7_atemporalidade_operacional.py`
+
+Unifica conceitos de Série T′ relacionados à atemporalidade
+e ao presente funcional.
+
+### F8 — Limites de Alinhamento
+`cmr_F8_limite_alinhamento.py`
+
+Mostra os limites práticos de alinhamento observacional,
+relacionando apropriadamente com as Séries I e S.
+
+---
+
+## Como Executar
+
+Cada script pode ser executado diretamente via:
